@@ -1,0 +1,28 @@
+* {
+    font-family: roboto;
+    background: #1F2937;
+    color: #f9faf8;
+    font-weight: 900;
+    outline: 2px solid red;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 2%;
+
+}
+
+#headerlink {
+    justify-content: flex-start;
+    flex-grow: 2;
+    width: 50%;
+    
+}
+
+
+
+
+    
